@@ -1,0 +1,97 @@
+@font-face {
+  font-family: "Altivo";
+  src: url("/fonts/Fontspring-DEMO-altivo-black.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Altivo";
+  src: url("/fonts/Fontspring-DEMO-altivo-blackitalic.otf") format("opentype");
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Altivo";
+  src: url("/fonts/Fontspring-DEMO-altivo-bold.otf") format("opentype");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Altivo";
+  src: url("/fonts/Fontspring-DEMO-altivo-bolditalic.otf") format("opentype");
+  font-weight: 600;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Altivo";
+  src: url("/fonts/Fontspring-DEMO-altivo-extralight.otf") format("opentype");
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Altivo";
+  src: url("/fonts/Fontspring-DEMO-altivo-extralightitalic.otf")
+    format("opentype");
+  font-weight: 200;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Altivo";
+  src: url("/fonts/Fontspring-DEMO-altivo-italic.otf") format("opentype");
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Altivo";
+  src: url("/fonts/Fontspring-DEMO-altivo-light.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Altivo";
+  src: url("/fonts/Fontspring-DEMO-altivo-lightitalic.otf") format("opentype");
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Altivo";
+  src: url("/fonts/Fontspring-DEMO-altivo-medium.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Altivo";
+  src: url("/fonts/Fontspring-DEMO-altivo-mediumitalic.otf") format("opentype");
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Altivo";
+  src: url("/fonts/Fontspring-DEMO-altivo-regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Altivo";
+  src: url("/fonts/Fontspring-DEMO-altivo-thin.otf") format("opentype");
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Altivo";
+  src: url("/fonts/Fontspring-DEMO-altivo-thinitalic.otf") format("opentype");
+  font-weight: 100;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Altivo";
+  src: url("/fonts/Fontspring-DEMO-altivo-ultra.otf") format("opentype");
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Altivo";
+  src: url("/fonts/Fontspring-DEMO-altivo-ultraitalic.otf") format("opentype");
+  font-weight: 800;
+  font-style: italic;
+}

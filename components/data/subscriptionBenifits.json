@@ -1,0 +1,36 @@
+[
+  {
+    "imageUrl": "/images/creditPerMonth.svg",
+    "title": "1 credit per month",
+    "description": "One 2d standard movie per month",
+    "sup": "1"
+  },
+  {
+    "imageUrl": "/images/rolloverOfUnusedCredits.svg",
+    "title": "Free rollover of unused credits",
+    "description": "Unused credits will be combined the following month"
+  },
+  {
+    "imageUrl": "/images/MMRPerks.svg",
+    "title": "All MMR perks included",
+    "description": "+ benifits"
+  },
+  {
+    "imageUrl": "/images/100Flexible.svg",
+    "title": "100% Flexible",
+    "description": "cancel anytime",
+    "sup": "2"
+  },
+  {
+    "imageUrl": "/images/discountOnFoodAndBeverages.svg",
+    "title": "20% Discount on all Foods and Beverages",
+    "description": "Excluding alcohol",
+    "sup": "2"
+  },
+  {
+    "imageUrl": "/images/convenienceFee.svg",
+    "title": "0 Convinience Fee",
+    "description": "Waived on all days on any ticket purchase",
+    "sup": "2"
+  }
+]
