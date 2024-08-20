@@ -9,7 +9,7 @@ const FaqListItem = ({ faq }) => {
   };
   return (
     <li className="faq-list-item" key={faq.id} onClick={expandToggle}>
-      <IoIosArrowDown className="arrow" />
+      <IoIosArrowDown className={`arrow ${expanded ? "" : "rotate"}`} />
       <p className="question">{faq.question}</p>
       <p className={`answer ${expanded ? "expand" : ""}`}>{faq.answer}</p>
     </li>
