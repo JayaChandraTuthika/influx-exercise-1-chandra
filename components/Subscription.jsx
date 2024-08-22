@@ -8,8 +8,15 @@ import { IoArrowForward } from "react-icons/io5";
 import SubscriptionCard from "./SubscriptionCard";
 
 import subscriptionBenifits from "./data/subscriptionBenifits.json";
+import { useRouter } from "next/navigation";
 
 const Subscription = () => {
+  const router = useRouter();
+
+  const navigateToSelectionPage = () => {
+    router.push("/selection");
+  };
+
   //   const cookie = cookies();
   return (
     <main className="subscription">
@@ -20,17 +27,20 @@ const Subscription = () => {
               src="/images/teenyicons_star-solid.svg"
               height={15}
               width={20}
+              alt="icon"
             />
             <Image
               src="/images/teenyicons_star-solid.svg"
               height={25}
               width={20}
               className="mb-1"
+              alt="icon"
             />
             <Image
               src="/images/teenyicons_star-solid.svg"
               height={15}
               width={20}
+              alt="icon"
             />
           </div>
 
@@ -63,7 +73,7 @@ const Subscription = () => {
             </li>
           </ul>
           <div className="buttons-container d-none d-md-flex">
-            <button className="get-started">
+            <button className="get-started" onClick={navigateToSelectionPage}>
               Get Started <IoArrowForward className="icon" />
             </button>
             <Link href="/" className="learn-more">

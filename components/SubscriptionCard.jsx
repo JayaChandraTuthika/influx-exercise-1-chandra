@@ -5,7 +5,7 @@ const SubscriptionCard = ({ data }) => {
   const { imageUrl, title, description, sup } = data;
   return (
     <div className="subscription-card">
-      <Image src={imageUrl} height={30} width={40} />
+      <Image src={imageUrl} height={30} width={40} alt="icon" />
       <h3>{title}</h3>
       <p>{description}</p>
     </div>

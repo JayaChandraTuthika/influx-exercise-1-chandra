@@ -81,7 +81,7 @@ const Header = () => {
       <nav className="navbar-mobile">
         <div className="links-wrapper">
           <button className="home-btn">
-            <Image src="/images/Home.svg" width={30} height={30} />
+            <Image src="/images/Home.svg" width={30} height={30} alt="icon" />
           </button>
         </div>
       </nav>

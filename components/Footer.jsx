@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 import { IoArrowForward } from "react-icons/io5";
 
@@ -7,9 +8,9 @@ const Footer = () => {
   };
   return (
     <footer className="mobile-footer">
-      <button>
+      <Link href="/selection" className="link">
         Get Started <IoArrowForward className="forward" />
-      </button>
+      </Link>
       <p>Marcus MVP is only available for use in our Mobile App.</p>
     </footer>
   );
